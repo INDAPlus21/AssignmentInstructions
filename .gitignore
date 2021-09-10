@@ -1,0 +1,29 @@
+### RUST
+
+# Generated files
+/*/target/
+/*/*/target/
+/*/*/*/target/
+/*/*/*/*/target/
+/*/*.exe
+/*/*/*.exe
+/*/*/*/*.exe
+
+# Unfinished
+rust-task-7/
+
+# The library shouldn't decide about the exact versions of 
+# its dependencies, but let the downstream crate decide.
+/*/Cargo.lock
+/*/*/Cargo.lock
+/*/*/*/Cargo.lock
+/*/*/*/*/Cargo.lock
+
+### Demos
+/demo.rs
+demo
+/*/demo.rs
+
+/*/test.pl
+
+/structures-task-18/token
