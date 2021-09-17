@@ -5,8 +5,8 @@ This repo is for storing plus group assignments that we can use in the INDA cour
 ```
 Haskell || Rust                     task-{2..7}
 C                                   task-7
-Assembler                           task-8              
-Interpreter                         task-9              GRP
+Assembler                           task-8        
+Interpreter                         task-9        GRP
 Prolog                              task-10
 ```
 
