@@ -35,7 +35,7 @@ Your program also exports an enumerable `GameState` with the values:
 
 ### Prepare assignment
 
-1) Create a repository named `<KTH_ID>-chess` under the `INDAPlus20` organisation and clone it.
+1) Create a repository named `<KTH_ID>-chess` under the `INDAPlus21` organisation and clone it.
 2) Navigate into your newly created repository and initialise a Rust library crate with the following command.
 ```bash
 cargo init --lib
