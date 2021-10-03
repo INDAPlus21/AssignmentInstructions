@@ -7,5 +7,6 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-chess_template = { git = "https://github.com/INDAPlus20/chess-template.git" }
-ggez = "0.5"
+chess_template = { git = "https://github.com/INDAPlus21/chess-template.git" }
+linked-hash-map = "0.5.4" 
+ggez = "0.6.1"
