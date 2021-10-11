@@ -33,6 +33,10 @@ Your program also exports an enumerable `GameState` with the values:
 - _(optional)_ `Checkmate` and
 - _(optional)_ `DeadPosition`.
 
+#### Expansion
+
+A GUI application could also make use of enumerables such as `Colour` and `Piece`. You may also like to make changes to the above API depeding on your board representation. If your library API do not reflect the documentation above, write your own complementary documentation in your repository's `README.md` file.
+
 ### Prepare assignment
 
 1) Create a repository named `<KTH_ID>-chess` under the `INDAPlus21` organisation and clone it.
@@ -53,3 +57,5 @@ Run your unit tests with comments by entering the following command in your term
 ```
 cargo test -- --nocapture --test-threads=1
 ```
+
+In addition to unit tests, all your public structures, functions, constants, and enumerables **must** have well written documentation comments.
