@@ -23,11 +23,8 @@ Read about good documentation and healthy code habits. Recommended for all progr
 
 > Somewhere far far away was a drive, a legendary drive. Tales claim even the fabled Ric himself has seen it. Heed, heed thee glory! For this plentiful store may bless us with its content.
 
-**OBSERVE**: The drive has been taken down due to social drama. Looking for a suitable replacement. Leave a message on Discord if you know of an arbritary copy-cat.
+**NOTE**: The older supreme drive, may it rest in peace, was taken down due to social drama. This is an arbritary copy-cat with most of the relevant literature for the computer science program. Thanks to the anonomus publishing user _Bok Bok_. Enjoy!
 
-![FB_IMG_1632484954928](https://user-images.githubusercontent.com/55837845/136809380-12bc22bb-c02f-4cab-8568-4110ab2b5434.jpg)
+- **[_(almost)_ Everything you'll ever need.](https://drive.google.com/drive/folders/1JgM_GU06Z3wL-PoV_YdE93x8WOsuUCL8?usp=sharing)**
 
-- **[DD1337 Programmering](https://drive.google.com/drive/u/0/folders/0BwaHnAYlcNWdfkFQdlNQQ29vSTUtNXV2RkJuWC1QSmZqWm4tZHlqTS03d1Z4N296MXpHUUU)**
-- **[DD1338 Algoritmer och datastrukturer](https://drive.google.com/drive/u/0/folders/0BwaHnAYlcNWdfmZPTi10VHo5VUlrQm1DZTc2WGdKNWI0eUxGZWJ4RnhyZ2M5WkRNSjhvQjA)**
-- **[DD1396 Parallellprogrammering](https://drive.google.com/drive/u/0/folders/0BwaHnAYlcNWdfkRZaDFWaXFwNlFKQ2JEWnJnNlM5QTVOZ3FuUDBoOURlMzk4cWNKMTJJQzg)**
-- **[_(almost)_ Everything you'll ever need.](https://drive.google.com/drive/u/0/folders/0BwaHnAYlcNWdY2tVWUl4Tkt6bEU)**
+Your INDA courses are: _DD1337 Programmering_, _DD1338 Algoritmer och Datastrukturer_, _DD1396 Parllellprogrammering_, och _DD1349 Projektuppgift i INDA_.
