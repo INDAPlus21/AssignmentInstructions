@@ -7,6 +7,10 @@ pub enum GameState {
     GameOver
 }
 
+pub enum Colour {
+    White, Black
+}
+
 /* IMPORTANT:
  * - Document well!
  * - Write well structured and clean code!
@@ -14,7 +18,10 @@ pub enum GameState {
 
 pub struct Game {
     /* save board, active colour, ... */
-    state: GameState
+    state: GameState,
+    black: u64,
+    white: u64,
+    kings: u64
 }
 
 impl Game {
@@ -29,6 +36,9 @@ impl Game {
     /// If the current game state is InProgress and the move is legal, 
     /// move a piece and return the resulting state of the game.
     pub fn make_move(&mut self, _from: String, _to: String) -> Option<GameState> {
+        
+        let mut vec: Vec<String> = Vec::with_capacity(60);
+        
         None
     }
 

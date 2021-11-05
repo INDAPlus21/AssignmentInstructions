@@ -42,7 +42,7 @@ _(optional fun)_:
 - [Quantum](https://open.kattis.com/problems/quantum)
 
 _(optional challenge)_:
-- 6/10 of the entries on the [Cyber-Clara och anmälningslistorna statistics board](https://kth.kattis.com/problems/kth.grupdat.anmalningslistorna/statistics) for the fastest solutions in Rust are from last year's ++:group. **Take them down!**
+- Rust, rightfully, dominates the [Cyber-Clara och anmälningslistorna statistics board](https://kth.kattis.com/problems/kth.grupdat.anmalningslistorna/statistics). Respectfully put C on the list.
 
 ### Questions
 
