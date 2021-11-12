@@ -18,7 +18,7 @@
 ##
 .macro	PUSH (%reg)
 	addi	$sp,$sp,-4              # decrement stack pointer (stack builds "downwards" in memory)
-	sw	    %reg,0($sp)             # save value to stack
+	sw	%reg,0($sp)             # save value to stack
 .end_macro
 
 ##
@@ -26,7 +26,7 @@
 # PARAM: Registry which to save value to.
 ##
 .macro	POP (%reg)
-	lw	    %reg,0($sp)             # load value from stack to given registry
+	lw	%reg,0($sp)             # load value from stack to given registry
 	addi	$sp,$sp,4               # increment stack pointer (stack builds "downwards" in memory)
 .end_macro
 
@@ -37,25 +37,25 @@ HW:     .asciiz "Hello World\n"     # define label HW as a constant string "Hell
 
 ### Executable Code Section ###
 
-.text
 .globl hello_world                  # define label main as externally accessable 
-
+.text
+ 
 ##
 #   Hello World routine
 #   - print "Hello World\n" to output stream
 ##
 hello_world:                        # function main starts here
     # manage saved regitries
-    PUSH($s1)                       # save parent routine's saved value to stack
     move    $s1, $ra                # save return address
+    PUSH($s1)                       # save parent routine's saved value to stack
 
     # call print_hello_world subroutine
-    jal		print_hello_world	    # jump to print_hello_world and save position to $ra
+    jal     print_hello_world	    # jump to print_hello_world and save position to $ra
     nop
 
     # manage saved regitries
-    POP($s1)                        # restore parent routine's saved value from stack
     move    $ra, $s1                # restore return adress
+    POP($s1)                        # restore parent routine's saved value from stack
 
     # return
     jr      $ra                     # return to where main was called from
