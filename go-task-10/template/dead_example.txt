@@ -1,0 +1,12 @@
+% An example 9x9 board where 
+% the white group in the middle is dead
+% This is a Prolog-term 
+[[e, e, e, e, e, e, e, e, e],
+[e, e, e, e, e, e, e, e, e],
+[e, e, e, e, b, b, w, e, e],
+[e, e, e, b, w, w, b, e, e],
+[e, e, e, e, b, w, b, e, e],
+[e, e, e, e, e, b, e, e, e],
+[e, e, e, e, e, e, e, e, e],
+[e, e, e, e, e, e, e, e, e],
+[e, e, e, e, e, e, e, e, e]].
