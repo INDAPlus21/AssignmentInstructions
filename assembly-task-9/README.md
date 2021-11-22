@@ -1,6 +1,6 @@
 # DD1337 Week 9
 
-This week is the **last week** of this course! Therefore, make sure to go back and correct **all** of your komplettering to get a tip top grade! 
+DD1338 nalkas...
 
 ## Assembly Language Design
 
