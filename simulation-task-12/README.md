@@ -6,7 +6,7 @@ _Disclaimer_: Life has it's challenges! I aim to push an example. Plz have patie
 
 When I was 13, my chemistry teacher claimed: "Allt är kemi!". Well, as simmer who has watched _The Matrix_, I beleive that everything is a mess of bugs and features (the differenses are decided by subjectivity, ideology, and performance-enhancing aids).
 
-With all the BAS-MATTE, LINALG, and zombified Fysik 1-2, you are ready to take on AD through the lense of simulation.
+With all the BAS-MATTE, LINALG, and zombified Fysik 1-2, you are ready to take on AD through the lense of simulation; in this case, extremely basic simulation.
 
 _The Nature of Code_ is a 14 week course written by [Daniel Shiffman](https://www.youtube.com/c/TheCodingTrain/featured). It covers the basics of physics simulation, including particle systems and flocking behaiviour. Your assignment for the next week is to follow and implement one chapter of _The Nature of Code_. Yes, this do include the front-end samples.
 
