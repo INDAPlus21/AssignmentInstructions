@@ -20,9 +20,18 @@ Book: https://natureofcode.com/book/preface/
     - Visualise the logic, either like the book samples, or something more creative.
     - Consider writing unit tests as practise.
 
-**Goldstar** for the Rustacean who explore the wonders of Rust by implementing the solution using Rust WebAssembly (logic implementation in Rust and frontend in Javascript). See a [tutorial for game of life](https://rustwasm.github.io/docs/book/game-of-life/introduction.html).
+**Goldstar** for the Rustacean who explore the wonders of Rust by implementing the solution using Rust WebAssembly (logic implementation in Rust and frontend in Javascript). 
 
 **Note**: You may implemet your solution using any language (this includes Python *_host_ psudokod *_host_ *_host_). The only drawback is that the book assume that you run OOB. Obviously, this is not the case (for me). However, you should be able to do your own interpretations.
+
+#### Prepare Rust WebAssembly
+
+To further prepare for Rust WebAssembly, do the following:
+1) Install the [Rust WebAssembly framework](https://rustwasm.github.io/wasm-pack/installer/).
+2) Install the [latest version of the Javascript package manager `npm`](https://nodejs.org/en/download/).
+3) Follow the tutorial of your choise. 
+    - See a [tutorial for game of life](https://rustwasm.github.io/docs/book/game-of-life/introduction.html).
+    - Clone `introduction-example` (coming soon...).
 
 ### Grading
 
