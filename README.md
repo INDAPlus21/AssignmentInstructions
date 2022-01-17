@@ -10,6 +10,19 @@ Architecture Design                 task-9        GRP
 Prolog                              task-10
 ```
 
+### DD1338 Algoritmer och Datastrukturer:
+```
+Sorting algorithm visualisation     task-11
+Make a game                         task-12             GRP
+Make a script to play said game     task-13
+Sockets!                            task-14
+Data Structures                     task-15
+Databases                           task-16 
+Dynprog                             task-17
+String Data Structures              task-18
+Quicksort                           task-19
+```
+
 ## Kurslitteratur
 
 - **Haskell**: http://learnyouahaskell.com
