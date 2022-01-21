@@ -2,6 +2,8 @@
 
 ## Raytracing
 
+![](https://pbs.twimg.com/media/Dk7Umz0W0AU1XlJ.jpg)
+
 The ++-group have a raytracing week during DD1337, before LINALG. This causes the work to be lacking in quality due to 'us' not knowing any of the underlying math. Building raytracers are fun(!), but can be complicated!
 
 By scheduling this over christmas, your're able to build everything from basic raytracers to complex monters of pure beauty. 
@@ -24,6 +26,10 @@ See:
 **Goldstar** for the Rustacean who still stick to Rust. Rust is not mandatory in any way, I just like it. Anything but Java goes. See [the absolute chad of indaplusplus19 - Eskil -'s raytracer](https://github.com/default-username-852/raytracer) in Rust.
 
 **Note**: You may implemet your solution using any language (this includes Python *_host_ psudokod *_host_ *_host_).
+
+Aim for:
+
+![](https://gallery.bramz.net/d/371-4/cornellbox_caustics.png)
 
 ### Grading
 
