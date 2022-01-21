@@ -43,7 +43,7 @@ Higher level equals more alpha!
 3) Design your own language and implement an interpreter for your language in whatever programming language you want (excluding Python).
 4) Design your own language and write an compiler as well as an emulator (we don't have time to design and order custom chips) for your language/architecture in whatever programming language you want (excluding Python).
 
-For advanced implementations (only level 3), contenders for the most outrageous implementation, you are allowed to team up in pairs!
+For advanced implementations (only level 3-4), contenders for the most outrageous implementation, you are allowed to team up in pairs!
 
 An interpretor reads a code file and run it instruction for instruction. A compiler reads a code file and outputs a system specific executable file. An emulator reads an executable file and executes it by interpretation.
 
