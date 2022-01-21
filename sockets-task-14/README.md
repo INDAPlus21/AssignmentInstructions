@@ -14,7 +14,7 @@ _// Viola_
 
 ### Prepare your assignment
 
-1. Create a repository named `<KTH_ID>-sockets` (Haskellers: You already have your repos in `inda-20`).
+1. Create a repository named `<KTH_ID>-sockets` (Haskellers: You already have your repos in `inda-21`).
 2. Start working on your prefered assignment.
 
 I (Tobias) have provided some of my old Java code under `./java-examples` a server and client program. The client sends two numbers to the server that adds them together and send the result back to the client. Your job will be to make something more advanced but the example code should set you off if you want to use Java.
