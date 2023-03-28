@@ -17,4 +17,11 @@ See the other weeks for directions.
 
 ## Don't forget banching
 
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fleanpub.com%2Fsite_images%2Fgit-flow%2Fgit-flow-nvie.png&f=1&nofb=1)
+Google actually prefers _Trunk-based Development_:
+> Trunk-based development is one of a set of capabilities that drive higher software delivery and organizational performance. 
+
+<object data="https://services.google.com/fh/files/misc/final_2022_state_of_devops_report.pdf#page=31" type="application/pdf" width="100%">
+    <embed src="https://services.google.com/fh/files/misc/final_2022_state_of_devops_report.pdf#page=31">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://services.google.com/fh/files/misc/final_2022_state_of_devops_report.pdf#page=31">Download PDF</a>.</p>
+    </embed>
+</object>
